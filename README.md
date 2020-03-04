@@ -1,9 +1,13 @@
 # repo_sinNombre
 
 ## Integrantes
-nombre - rol
+Sergio José Muñoz Ascencio - Líder
+Andrés David Rojas Rojas - Diseñador
+Laura Alejandra Tuta Gomez
+Leibnitz Edison Andrés Rojas Castillo - Programador
+Angie Juliana López Salamanca - Constructor
 
-## Título del proyecto
+## INTELLIGENT LIGTH
 
 ## Descripción
 (¿qué hace? y materiales)
