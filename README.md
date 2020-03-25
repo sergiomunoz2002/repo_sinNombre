@@ -1,12 +1,23 @@
 # repo_sinNombre
 
 ## Integrantes
-nombre - rol
+Sergio Muñoz - Líder
+Andrés David Rojas - Diseñador
+Laura Tuta - Diseñador
+Leibnitz Rojas - Programador
+Juliana López - Constructor
 
-## Título del proyecto
+## Título del proyecto: Light energy
 
 ## Descripción
-(¿qué hace? y materiales)
+
+Los materiales son:
+Una placa Arduino Mega
+Un modulo rele
+Un modulo Bluetooth HC-05 
+Jumpers
+Kit de soldadura
+
 
 ## Planos
 
